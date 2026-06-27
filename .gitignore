@@ -1,0 +1,21 @@
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and workspace metadata
+.vscode/
+.idea/
+
+# Logs and generated temporary files
+*.log
+tmp/
+temp/

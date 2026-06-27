@@ -59,4 +59,6 @@ Goals:
 
 ## Roadmap Principle
 
-The roadmap is intentionally staged. AI Quant Review System should be presented as an AI-assisted review workflow and risk-aware decision-support concept, not as an automated trading platform.
+The roadmap is intentionally staged. AI Quant Review System should be presented
+as an AI-assisted review workflow and risk-aware decision-support concept, not
+as an automated trading platform.

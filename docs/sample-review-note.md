@@ -1,6 +1,7 @@
 # Synthetic Review Note
 
-Synthetic Example — For Portfolio Demonstration Only. This is not financial advice, not a real trading signal, and not based on private trading data.
+Synthetic Example — For Portfolio Demonstration Only. This is not financial
+advice, not a real trading signal, and not based on private trading data.
 
 ## Review Note ID
 
@@ -16,9 +17,12 @@ Generic market-structure review candidate
 
 ## Context Summary
 
-A fictional public market narrative has become more active after a general ecosystem announcement. The candidate appears to be based on public discussion and a change in attention, but the underlying impact is not yet clear.
+A fictional public market narrative has become more active after a general
+ecosystem announcement. The candidate appears to be based on public discussion
+and a change in attention, but the underlying impact is not yet clear.
 
-This note does not describe a real token, price level, entry, exit, stop loss, take profit, leverage plan, or trade setup.
+This note does not describe a real token, price level, entry, exit, stop loss,
+take profit, leverage plan, or trade setup.
 
 ## Risk Factors
 
@@ -54,8 +58,10 @@ Needs source verification and context update
 
 ## Post-event Review Placeholder
 
-To be completed after the candidate is no longer active or after additional public information becomes available.
+To be completed after the candidate is no longer active or after additional
+public information becomes available.
 
 ## Write-back Notes
 
-This synthetic note should be used as a public-safe example of candidate review structure. It should not be converted into a trading signal or strategy rule.
+This synthetic note should be used as a public-safe example of candidate review
+structure. It should not be converted into a trading signal or strategy rule.

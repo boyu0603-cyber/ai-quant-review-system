@@ -23,4 +23,6 @@ Disallowed assets:
 - Private prompts
 - Proprietary rules
 
-Any future asset should be reviewed before publication to confirm that it contains only public-safe material and does not provide financial advice, trading signals, or automated trading claims.
+Any future asset should be reviewed before publication to confirm that it
+contains only public-safe material and does not provide financial advice,
+trading signals, or automated trading claims.

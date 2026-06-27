@@ -1,12 +1,16 @@
 # Candidate Review Framework
 
-The candidate review framework explains how a candidate opportunity is converted into a structured review item.
+The candidate review framework explains how a candidate opportunity is converted
+into a structured review item.
 
-This framework is public-safe and conceptual. It does not contain real trading rules, signals, entries, exits, stop losses, take profits, leverage, or proprietary parameters.
+This framework is public-safe and conceptual. It does not contain real trading
+rules, signals, entries, exits, stop losses, take profits, leverage, or
+proprietary parameters.
 
 ## Candidate Summary
 
-The candidate summary describes what the candidate appears to be, using neutral language.
+The candidate summary describes what the candidate appears to be, using neutral
+language.
 
 It should avoid hype, urgency, or directional claims.
 
@@ -24,13 +28,15 @@ Useful context may include:
 
 ## Timing Concern
 
-Timing concern records whether the candidate may be late, premature, event-driven, or unclear.
+Timing concern records whether the candidate may be late, premature,
+event-driven, or unclear.
 
 This section does not define entry timing or trading execution.
 
 ## Risk Factors
 
-Risk factors identify what could make the candidate low quality or unsafe to act on.
+Risk factors identify what could make the candidate low quality or unsafe to act
+on.
 
 Examples:
 
@@ -43,7 +49,8 @@ Examples:
 
 ## Missing Information
 
-Missing information should be explicit. A candidate should not move forward in the review process if critical context is absent.
+Missing information should be explicit. A candidate should not move forward in
+the review process if critical context is absent.
 
 ## Review Questions
 
@@ -67,8 +74,11 @@ Possible public-safe decision states:
 - Needs more information
 - Closed
 
-These states are for review management only and do not represent trade instructions.
+These states are for review management only and do not represent trade
+instructions.
 
 ## Follow-up Plan
 
-The follow-up plan records what should happen next. It may include monitoring public information, checking source credibility, updating context, or closing the item.
+The follow-up plan records what should happen next. It may include monitoring
+public information, checking source credibility, updating context, or closing
+the item.
